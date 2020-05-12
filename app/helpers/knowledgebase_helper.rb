@@ -3,6 +3,7 @@ module KnowledgebaseHelper
   include KnowledgebaseSettingsHelper
   include ActionView::Helpers::NumberHelper
   include RedmineCrm::TagsHelper
+  include ApplicationHelper
 
   def format_article_summary(article, format, options = {})
     output = case format
