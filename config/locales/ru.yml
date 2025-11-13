@@ -1,5 +1,5 @@
---- 
-ru: 
+---
+ru:
   allow_anon_access: "Разрешить анонимный доступ?"
   allow_sort_category_tree: "Сортировать дерево каталогов по алфавиту?"
   disable_article_summaries: "Отключить сводки для статей"
@@ -16,7 +16,7 @@ ru:
   label_article_removed: "Статья удалена"
   label_article_updated: "Статья обновлена"
   label_article_version: "Версия статьи: %{version} - "
-  label_article_viewed: 
+  label_article_viewed:
     one: "Просмотрена один раз"
     few: "Просмотрена %{count} раза"
     many: "Просмотрена %{count} раз"
@@ -53,12 +53,12 @@ ru:
   label_subcategories: Подкатегории
   label_summary: Сводка
   label_summary_newest_articles: "Создан %{ago} в категории %{category}"
-  label_summary_popular_articles: 
+  label_summary_popular_articles:
     one: "Один просмотр с %{created}"
     few: "Было %{count} просмотра с %{created}"
     many: "Было %{count} просмотров с %{created}"
     other: "Было %{count} просмотров с %{created}"
-  label_summary_toprated_articles: 
+  label_summary_toprated_articles:
     one: "Рейтинг: %{rating_avg}/%{rating_max} после одного голоса"
     few: "Рейтинг: %{rating_avg}/%{rating_max} после %{count} голосов"
     many: "Рейтинг: %{rating_avg}/%{rating_max} после %{count} голосов"
@@ -91,6 +91,9 @@ ru:
   permission_view_top_rated_articles: "Просматривать статьи с наивысшим рейтингом"
   permission_watch_articles: "Следить за статьями"
   permission_watch_categories: "Следить за категориями"
+  permission_add_kb_article_watchers: "Следить за статьями"
+  permission_add_kb_category_watchers: "Следить за категориями"
+  permissions_add_kb_article_watchers: "Добавление наблюдателей за "
   project_module_knowledgebase: Knowledgebase
   show_article_without_tabs: "Показать статьи без вкладок"
   show_attachments_first: "Показать вложения перед содержимым статьи"
@@ -119,7 +122,7 @@ ru:
   title_tagged_articles: "Статьи отмеченные тегом %{tag}"
   title_tags: Тег
   title_top_rated_articles: "Статьи с наибольшим рейтингом"
-  title_votes: 
+  title_votes:
     one: "один голос"
     few: "%{count} голоса"
     many: "%{count} голосов"

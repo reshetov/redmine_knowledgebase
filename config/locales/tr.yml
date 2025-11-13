@@ -1,5 +1,5 @@
---- 
-tr: 
+---
+tr:
   allow_anon_access: "Anonim erişime izin ver?"
   allow_sort_category_tree: "Kategori ağacını alfabetik olarak sırala?"
   disable_article_summaries: "Disable Article Summaries"
@@ -16,7 +16,7 @@ tr:
   label_article_removed: "Makale kaldırıldı"
   label_article_updated: "Makale güncellendi"
   label_article_version: "Article version: %{version} - "
-  label_article_viewed: 
+  label_article_viewed:
     one: "Bir kez görüntülendi"
     other: "%{count} defa görüntülendi"
   label_attachment_add: "Add files"
@@ -51,10 +51,10 @@ tr:
   label_subcategories: Alt-kategoriler
   label_summary: Özet
   label_summary_newest_articles: "%{ago} önce %{category} içinde oluşturuldu"
-  label_summary_popular_articles: 
+  label_summary_popular_articles:
     one: "%{created} tarihinden bu yana bir kez görüntülendi"
     other: "%{created} tarihinden bu yana %{count} kez görüntülendi"
-  label_summary_toprated_articles: 
+  label_summary_toprated_articles:
     one: "Derecelendirme: Bir oy ile %{rating_avg}/%{rating_max}"
     other: "Derecelendirme: %{count} oy ile %{rating_avg}/%{rating_max}"
   label_summary_updated_articles: "%{ago} önce güncellendi"
@@ -84,6 +84,8 @@ tr:
   permission_view_top_rated_articles: "view top rated articles"
   permission_watch_articles: "Watch articles"
   permission_watch_categories: "Watch categories"
+  permission_add_kb_article_watchers: "Watch articles"
+  permission_add_kb_category_watchers: "Watch categories"
   project_module_knowledgebase: Knowledgebase
   show_article_without_tabs: "Show articles without tabs?"
   show_attachments_first: "Show attachments before article content?"
@@ -109,7 +111,7 @@ tr:
   title_tagged_articles: "%{tag} ile etiketlenmiş makaleler"
   title_tags: Etiketler
   title_top_rated_articles: "En Çok Oy Alan Makaleler"
-  title_votes: 
+  title_votes:
     one: "Bir oy"
     other: "%{count} oy"
     zero: "Oy yok"

@@ -1,5 +1,5 @@
---- 
-el: 
+---
+el:
   allow_anon_access: "Να επιτραπεί ανώνυμη πρόσβαση;"
   allow_sort_category_tree: "Ταξινόμηση δέντρου κατα αλφαβητική σειρά;"
   disable_article_summaries: "Disable Article Summaries"
@@ -16,7 +16,7 @@ el:
   label_article_removed: "Το άρθρο διαγράφηκε"
   label_article_updated: "Το άρθρο επικαιροποιήθηκε"
   label_article_version: "Article version: %{version} - "
-  label_article_viewed: 
+  label_article_viewed:
     one: "Προβλήθηκε μία φορά"
     other: "Προβλήθηκε %{count} φορές"
   label_attachment_add: "Add files"
@@ -51,10 +51,10 @@ el:
   label_subcategories: Υποκατηγορείες
   label_summary: Περίληψη
   label_summary_newest_articles: "Δημιουργήθηκε πριν από %{ago} στην %{category}"
-  label_summary_popular_articles: 
+  label_summary_popular_articles:
     one: "Προβλήθηκε μία φορά την %{created}"
     other: "Προβλήθηκε %{count} φορές από την %{created}"
-  label_summary_toprated_articles: 
+  label_summary_toprated_articles:
     one: "Βαθμολογία: %{rating_avg}/%{rating_max} από μία ψήφο"
     other: "Βαθμολογία: %{rating_avg}/%{rating_max} από %{count} ψήφους"
   label_summary_updated_articles: "Επικαιροποιήθηκε πριν %{ago}"
@@ -84,6 +84,8 @@ el:
   permission_view_top_rated_articles: "view top rated articles"
   permission_watch_articles: "Watch articles"
   permission_watch_categories: "Watch categories"
+  permission_add_kb_article_watchers: "Watch articles"
+  permission_add_kb_category_watchers: "Watch categories"
   project_module_knowledgebase: Knowledgebase
   show_article_without_tabs: "Show articles without tabs?"
   show_attachments_first: "Show attachments before article content?"
@@ -109,7 +111,7 @@ el:
   title_tagged_articles: "Άρθα επισημασμένα με %{tag}"
   title_tags: Ετικέτες
   title_top_rated_articles: "Κορυφαία βαθμολογημένα άρθρα"
-  title_votes: 
+  title_votes:
     one: "μία ψήφος"
     other: "%{count} ψήφοι"
     zero: "χωρίς ψήφους"

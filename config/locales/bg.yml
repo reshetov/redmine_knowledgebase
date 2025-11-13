@@ -1,5 +1,5 @@
---- 
-bg: 
+---
+bg:
   allow_anon_access: "Разрешаване на анонимен достъп?"
   allow_sort_category_tree: "Азбучно сортиране на дървото на категориите?"
   disable_article_summaries: "Disable Article Summaries"
@@ -16,7 +16,7 @@ bg:
   label_article_removed: "Статията е премахната"
   label_article_updated: "Статията е обновена"
   label_article_version: "Article version: %{version} - "
-  label_article_viewed: 
+  label_article_viewed:
     one: "Разглеждана един път"
     other: "Разглеждана %{count} пъти"
   label_attachment_add: "Add files"
@@ -51,10 +51,10 @@ bg:
   label_subcategories: Под-категории
   label_summary: Анотация
   label_summary_newest_articles: "Създадена преди %{ago} в %{category}"
-  label_summary_popular_articles: 
+  label_summary_popular_articles:
     one: "Разглеждана един път след %{created}"
     other: "Разглеждана %{count} пъти след %{created}"
-  label_summary_toprated_articles: 
+  label_summary_toprated_articles:
     one: "Рейтинг: %{rating_avg}/%{rating_max} от един вот"
     other: "Рейтинг: %{rating_avg}/%{rating_max} от %{count} вота"
   label_summary_updated_articles: "Обновени преди %{ago}"
@@ -84,6 +84,8 @@ bg:
   permission_view_top_rated_articles: "view top rated articles"
   permission_watch_articles: "Watch articles"
   permission_watch_categories: "Watch categories"
+  permission_add_kb_article_watchers: "Watch articles"
+  permission_add_kb_category_watchers: "Watch categories"
   project_module_knowledgebase: Knowledgebase
   show_article_without_tabs: "Show articles without tabs?"
   show_attachments_first: "Show attachments before article content?"
@@ -109,7 +111,7 @@ bg:
   title_tagged_articles: "Статии, маркирани с %{tag}"
   title_tags: Маркери
   title_top_rated_articles: "Статии с най-голям рейтинг"
-  title_votes: 
+  title_votes:
     one: "един глас"
     other: "%{count} гласа"
     zero: гласа

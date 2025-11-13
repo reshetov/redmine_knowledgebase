@@ -1,5 +1,5 @@
---- 
-pl: 
+---
+pl:
   allow_anon_access: "Zezwolić na anonimowy dostęp?"
   allow_sort_category_tree: "Sortować drzewo kategorii alfabetycznie?"
   disable_article_summaries: "Wyłącz podsumowania artykułów"
@@ -16,7 +16,7 @@ pl:
   label_article_removed: "Artykuł usunięty"
   label_article_updated: "Artykuł zaktualizowany"
   label_article_version: "Wersja artykułu: %{version} - "
-  label_article_viewed: 
+  label_article_viewed:
     one: "Oglądany raz"
     other: "Oglądany %{count} razy"
   label_attachment_add: "Add files"
@@ -51,10 +51,10 @@ pl:
   label_subcategories: "Kategorie podrzędne"
   label_summary: Podsumowanie
   label_summary_newest_articles: "Utworzono %{ago} temu w %{category}"
-  label_summary_popular_articles: 
+  label_summary_popular_articles:
     one: "Oglądane raz od %{created}"
     other: "Oglądane %{count} razy od %{created}"
-  label_summary_toprated_articles: 
+  label_summary_toprated_articles:
     one: "Ocena: %{rating_avg}/%{rating_max} z jednego głosu"
     other: "Ocena: %{rating_avg}/%{rating_max} z %{count} głosów"
   label_summary_updated_articles: "Zaktualizowane %{ago} temu"
@@ -84,6 +84,8 @@ pl:
   permission_view_top_rated_articles: "Przeglądaj najlepiej oceniane artykuły"
   permission_watch_articles: "Obserwuj artykuły"
   permission_watch_categories: "Obserwuj kategorie"
+  permission_add_kb_article_watchers: "Obserwuj artykuły"
+  permission_add_kb_category_watchers: "Obserwuj kategorie"
   project_module_knowledgebase: "Baza wiedzy"
   show_article_without_tabs: "Show articles without tabs?"
   show_attachments_first: "Show attachments before article content?"
@@ -109,7 +111,7 @@ pl:
   title_tagged_articles: "Artykuły z słowem kluczowym %{tag}"
   title_tags: "Słowa kluczowe"
   title_top_rated_articles: "Najlepiej ocenione artykuły"
-  title_votes: 
+  title_votes:
     one: "jeden głos"
     other: "%{count} głosów"
     zero: "brak głosów"

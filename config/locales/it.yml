@@ -1,5 +1,5 @@
---- 
-it: 
+---
+it:
   allow_anon_access: "Allow anonymous access?"
   allow_sort_category_tree: "Sort the category tree alphabetically?"
   disable_article_summaries: "Disable Article Summaries"
@@ -16,7 +16,7 @@ it:
   label_article_removed: "Article removed"
   label_article_updated: "Article updated"
   label_article_version: "Article version: %{version} - "
-  label_article_viewed: 
+  label_article_viewed:
     one: "Viewed once"
     other: "Viewed %{count} times"
   label_attachment_add: "Add files"
@@ -51,10 +51,10 @@ it:
   label_subcategories: Sub-categories
   label_summary: Sommario
   label_summary_newest_articles: "Created %{ago} ago in %{category}"
-  label_summary_popular_articles: 
+  label_summary_popular_articles:
     one: "Viewed once since %{created}"
     other: "Viewed %{count} times since %{created}"
-  label_summary_toprated_articles: 
+  label_summary_toprated_articles:
     one: "Rating: %{rating_avg}/%{rating_max} from one vote"
     other: "Rating: %{rating_avg}/%{rating_max} from %{count} votes"
   label_summary_updated_articles: "Updated %{ago} ago"
@@ -84,6 +84,8 @@ it:
   permission_view_top_rated_articles: "view top rated articles"
   permission_watch_articles: "Watch articles"
   permission_watch_categories: "Watch categories"
+  permission_add_kb_article_watchers: "Watch articles"
+  permission_add_kb_category_watchers: "Watch categories"
   project_module_knowledgebase: Knowledgebase
   show_article_without_tabs: "Show articles without tabs?"
   show_attachments_first: "Show attachments before article content?"

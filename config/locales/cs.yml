@@ -1,5 +1,5 @@
---- 
-cs: 
+---
+cs:
   allow_anon_access: "Dovolit anonymní přístup?"
   allow_sort_category_tree: "Řadit strom kategorií podle abecedy?"
   disable_article_summaries: "Disable Article Summaries"
@@ -16,7 +16,7 @@ cs:
   label_article_removed: "Článek byl smazán"
   label_article_updated: "Článek byl aktualizován"
   label_article_version: "Article version: %{version} - "
-  label_article_viewed: 
+  label_article_viewed:
     one: "Zobrazeno jednou"
     other: "Zobrazeno %{count} krát"
   label_attachment_add: "Add files"
@@ -52,10 +52,10 @@ cs:
   label_subcategories: Podkategorie
   label_summary: Souhrn
   label_summary_newest_articles: "Vytvořeno před %{ago} v %{category}"
-  label_summary_popular_articles: 
+  label_summary_popular_articles:
     one: "Zobrazeno jednou od %{created}"
     other: "Zobrazeno %{count} krát od %{created}"
-  label_summary_toprated_articles: 
+  label_summary_toprated_articles:
     one: "Hodnoceno jedním hlasem, %{rating_avg}/%{rating_max}"
     other: "Hodnoceno %{count} hlasy, %{rating_avg}/%{rating_max}"
   label_summary_updated_articles: "Aktualizováno před %{ago}"
@@ -85,6 +85,8 @@ cs:
   permission_view_top_rated_articles: "view top rated articles"
   permission_watch_articles: "Watch articles"
   permission_watch_categories: "Watch categories"
+  permission_add_kb_article_watchers: "Watch articles"
+  permission_add_kb_category_watchers: "Watch categories"
   project_module_knowledgebase: Knowledgebase
   show_article_without_tabs: "Show articles without tabs?"
   show_attachments_first: "Show attachments before article content?"
@@ -110,7 +112,7 @@ cs:
   title_tagged_articles: "Články se štítkem %{tag}"
   title_tags: Štítky
   title_top_rated_articles: "Nejlépe hodnocené články"
-  title_votes: 
+  title_votes:
     few: hlasy
     one: "jeden hlas"
     other: "%{count} hlasů"

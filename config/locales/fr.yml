@@ -1,5 +1,5 @@
---- 
-fr: 
+---
+fr:
   allow_anon_access: "Consultation anonyme ?"
   allow_sort_category_tree: "Trier les catégories par ordre alphabétique ?"
   disable_article_summaries: "Ne pas présenter les sommaires"
@@ -17,7 +17,7 @@ fr:
   label_article_removed: "Article supprimé"
   label_article_updated: "Article mis à jour"
   label_article_version: "Article version: %{version} - "
-  label_article_viewed: 
+  label_article_viewed:
     one: "Consulté une fois"
     other: "Consulté %{count} fois"
   label_attachment_add: "Add files"
@@ -53,10 +53,10 @@ fr:
   label_subcategories: Sous-catégories
   label_summary: Résumé
   label_summary_newest_articles: "Créé il y a %{ago} dans %{category}"
-  label_summary_popular_articles: 
+  label_summary_popular_articles:
     one: "Lu une fois depuis le %{created}"
     other: "Lu %{count} fois depuis le %{created}"
-  label_summary_toprated_articles: 
+  label_summary_toprated_articles:
     one: "Note : %{rating_avg}/%{rating_max} sur un vote"
     other: "Note : %{rating_avg}/%{rating_max} sur %{count} votes"
   label_summary_updated_articles: "Mis à jour il y a %{ago}"
@@ -84,6 +84,8 @@ fr:
   permission_view_most_popular_articles: "Voir les articles les plus populaires"
   permission_view_recent_articles: "Voir les articles récents"
   permission_view_top_rated_articles: "Voir les articles le mieux notés"
+  permission_watch_articles: "Surveiller les articles"
+  permission_watch_categories: "Surveiller les catégories"
   permission_watch_articles: "Surveiller les articles"
   permission_watch_categories: "Surveiller les catégories"
   project_module_knowledgebase: "Base de connaissances"

@@ -69,10 +69,10 @@ Redmine::Plugin.register :redmine_knowledgebase do
       :articles      => :index,
       :categories    => [:index, :show, :new, :create, :edit, :update, :destroy]
     }
-    permission :watch_articles, {
+    permission (Redmine::VERSION.to_s >= "6.0.0" ? :add_kb_article_watchers : :watch_articles), {
       :watchers		=> [:new, :destroy]
     }
-    permission :watch_categories, {
+    permission (Redmine::VERSION.to_s >= "6.0.0" ? :add_kb_category_watchers : :watch_categories), {
       :watchers => [:new, :destroy]
     }
     permission :view_recent_articles, {

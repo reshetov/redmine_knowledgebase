@@ -1,5 +1,5 @@
---- 
-es: 
+---
+es:
   allow_anon_access: "¿Permitir acceso anónimo?"
   allow_sort_category_tree: "¿Ordenar el árbol de categorías alfabéticamente?"
   disable_article_summaries: "Resumen de artículos desactivado"
@@ -16,7 +16,7 @@ es:
   label_article_removed: "Artículo eliminado"
   label_article_updated: "Artículo actualizado"
   label_article_version: "Versión del artículo: %{version} - "
-  label_article_viewed: 
+  label_article_viewed:
     one: "Visto una vez"
     other: "Visto %{count} veces"
   label_attachment_add: "Add files"
@@ -51,10 +51,10 @@ es:
   label_subcategories: Sub-categorías
   label_summary: Resumen
   label_summary_newest_articles: "Creadho hace %{ago} en %{category}"
-  label_summary_popular_articles: 
+  label_summary_popular_articles:
     one: "Visto una vez desde %{created}"
     other: "Visto %{count} veces desde %{created}"
-  label_summary_toprated_articles: 
+  label_summary_toprated_articles:
     one: "Valoración: %{rating_avg}/%{rating_max} de un voto"
     other: "Valoración: %{rating_avg}/%{rating_max} de %{count} votos"
   label_summary_updated_articles: "Actualizado hace %{ago}"
@@ -84,6 +84,8 @@ es:
   permission_view_top_rated_articles: "ver los artículos más valorados"
   permission_watch_articles: "Monitorizar artículos"
   permission_watch_categories: "Monitorizar categorías"
+  permission_add_kb_article_watchers: "Monitorizar artículos"
+  permission_add_kb_category_watchers: "Monitorizar categorías"
   project_module_knowledgebase: "Base de conocimientos"
   show_article_without_tabs: "Show articles without tabs?"
   show_attachments_first: "Show attachments before article content?"
@@ -109,7 +111,7 @@ es:
   title_tagged_articles: "Artículos etiquetados con %{tag}"
   title_tags: Etiquetas
   title_top_rated_articles: "Artículos de más valor"
-  title_votes: 
+  title_votes:
     one: "un voto"
     other: "%{count} votos"
     zero: "sin votos"
