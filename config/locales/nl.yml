@@ -1,5 +1,5 @@
---- 
-nl: 
+---
+nl:
   allow_anon_access: "Anonieme toegang toestaan?"
   allow_sort_category_tree: "Categoriën alfabetisch rangschikken?"
   disable_article_summaries: "Uitschakelen artikel samenvattingen"
@@ -16,7 +16,7 @@ nl:
   label_article_removed: "Artikel verwijderd"
   label_article_updated: "Artikel bijgewerkt"
   label_article_version: "Artikel versie %{version} - "
-  label_article_viewed: 
+  label_article_viewed:
     one: "Eenmaal gezien"
     other: "Gezien: %{count} keer"
   label_attachment_add: "Add files"
@@ -51,10 +51,10 @@ nl:
   label_subcategories: Subcategoriën
   label_summary: Samenvatting
   label_summary_newest_articles: "Gemaakt %{ago} geleden in %{category}"
-  label_summary_popular_articles: 
+  label_summary_popular_articles:
     one: "Eenmaal bekeken sinds %{created}"
     other: "Bekeken %{count} keer sinds %{created}"
-  label_summary_toprated_articles: 
+  label_summary_toprated_articles:
     one: "Waardering: %{rating_avg}/%{rating_max} van een stem"
     other: "Waardering: %{rating_avg}/%{rating_max} van %{count} stemmers"
   label_summary_updated_articles: "Bijgewerkt %{ago} geleden"
@@ -84,6 +84,8 @@ nl:
   permission_view_top_rated_articles: "bekijk meest gewaardeerde artikelen"
   permission_watch_articles: "Bekijk artikelen"
   permission_watch_categories: "Bekijk categoriën"
+  permission_add_kb_article_watchers: "Bekijk artikelen"
+  permission_add_kb_category_watchers: "Bekijk categoriën"
   project_module_knowledgebase: Kennisbank
   show_article_without_tabs: "Show articles without tabs?"
   show_attachments_first: "Show attachments before article content?"
@@ -109,7 +111,7 @@ nl:
   title_tagged_articles: "Artikelen gelabeled met %{tag}"
   title_tags: Labels
   title_top_rated_articles: "Meest gewaardeerde artikelen"
-  title_votes: 
+  title_votes:
     one: "een stem"
     other: "%{count} stemmen"
     zero: "geen stemmen"

@@ -1,5 +1,5 @@
---- 
-zh-TW: 
+---
+zh-TW:
   articles_per_list_page: "文章列表每頁顯示文章數量"
   allow_anon_access: "允許匿名使用者存取?"
   allow_sort_category_tree: "依字母排序類別瀏覽?"
@@ -19,7 +19,7 @@ zh-TW:
   label_article_removed: "文章已移除。"
   label_article_updated: "文章已更新。"
   label_article_version: "文章版本: %{version} - "
-  label_article_viewed: 
+  label_article_viewed:
     one: "已被閱讀 1 次。"
     other: "已被閱讀 %{count} 次。"
   label_attachment_add: 新增附件
@@ -54,10 +54,10 @@ zh-TW:
   label_subcategories: 子類別
   label_summary: 摘要
   label_summary_newest_articles: "%{ago} 前建立於 【%{category}】"
-  label_summary_popular_articles: 
+  label_summary_popular_articles:
     one: "自 %{created} 起，已被閱讀 1 次。"
     other: "自 %{created} 起，已被閱讀 %{count} 次。"
-  label_summary_toprated_articles: 
+  label_summary_toprated_articles:
     one: "綜合評分: %{rating_avg}/%{rating_max} 來自於 1 次評分。"
     other: "綜合評分: %{rating_avg}/%{rating_max} 來自於 %{count} 次評分。"
   label_summary_updated_articles: "%{ago} 之前更新"
@@ -66,7 +66,7 @@ zh-TW:
   label_title_category: 所屬類別
   label_unrated_article: 未評分
   label_updated_who: "%{updater} 於 %{age} 前更新"
-  label_unrated_article: "未評分"  
+  label_unrated_article: "未評分"
   message_no_articles: "目前尚未有任何文章。"
   message_no_categories: "目前未定義任何類別。您需要至少建立一個知識類別。"
   message_no_permissions: "您無權檢視任何文章或類別，請聯絡管理員。"
@@ -88,13 +88,15 @@ zh-TW:
   permission_view_top_rated_articles: 檢視評分最高的文章
   permission_watch_articles: 關注文章
   permission_watch_categories: 關注類別
+  permission_add_kb_article_watchers: 關注文章
+  permission_add_kb_category_watchers: 關注類別
   project_module_knowledgebase: 知識庫
   show_article_without_tabs: "文章內容不以頁籤方式顯示？"
   show_attachments_first: "在文章內容前先顯示附件？"
   show_breadcrumbs_for_article_lists: "在文章列表中顯示類別導覽？"
   show_category_totals: "在類別瀏覽中顯示數量？"
   show_thumbnails_for_articles: "顯示文章縮略圖？"
-  show_tiled_article_lists: "以磚型縮略圖顯示文章列表？"  
+  show_tiled_article_lists: "以磚型縮略圖顯示文章列表？"
   summary_item_limit: 知識庫摘要中每個列表的文章數量
   text_confirm_versions_delete: "還原文章內容並刪除較該版本新的內容，是否繼續？"
   text_current_version: 目前版本
@@ -115,7 +117,7 @@ zh-TW:
   title_tagged_articles: "含【%{tag}】標籤的文章"
   title_tags: 標籤
   title_top_rated_articles: 評分最高的文章
-  title_votes: 
+  title_votes:
     one: "被評分 1 次。"
     other: "被評分 %{count} 次。"
     zero: "未被評分。"

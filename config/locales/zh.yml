@@ -1,9 +1,9 @@
---- 
-zh: 
+---
+zh:
   articles_per_list_page: "每页显示多少篇文章？"
   allow_anon_access: "是否允许匿名访问？"
   allow_sort_category_tree: "分类树按字母排序？"
-  critical_tags: "优先显示关键标签（逗号【,】分隔）" 
+  critical_tags: "优先显示关键标签（逗号【,】分隔）"
   disable_article_summaries: "禁用文章摘要"
   description_create_article: "在知识库的【%{category}】分类中，添加一篇新文章。"
   field_article_author: "作者"
@@ -19,7 +19,7 @@ zh:
   label_article_removed: "文章已移除。"
   label_article_updated: "文章已更新。"
   label_article_version: "文章版本: %{version} - "
-  label_article_viewed: 
+  label_article_viewed:
     one: "已阅 1 次。"
     other: "已阅 %{count} 次。"
   label_attachment_add: "添加附件"
@@ -54,10 +54,10 @@ zh:
   label_subcategories: 子分类
   label_summary: 摘要
   label_summary_newest_articles: "位于【%{category}】分类，创建于 %{ago} 之前"
-  label_summary_popular_articles: 
+  label_summary_popular_articles:
     one: "自 %{created} 起，已阅 1 次。"
     other: "自 %{created} 起，已阅 %{count} 次。"
-  label_summary_toprated_articles: 
+  label_summary_toprated_articles:
     one: "综合评分: %{rating_avg}/%{rating_max} 来自于 1 次评分。"
     other: "综合评分: %{rating_avg}/%{rating_max} 来自于 %{count} 次评分。"
   label_summary_updated_articles: "更新于 %{ago} 之前"
@@ -66,7 +66,7 @@ zh:
   label_title_category: 所属分类
   label_unrated_article: 未评分
   label_updated_who: "由 %{updater} 更新于 %{age} 前"
-  label_unrated_article: "未评分"  
+  label_unrated_article: "未评分"
   message_no_articles: "目前尚未有任何文章。"
   message_no_categories: "目前未定义任何分类。您需要至少创建一个知识分类。"
   message_no_permissions: "你无权查看任何文章或分类，请联系管理员。"
@@ -88,14 +88,16 @@ zh:
   permission_view_top_rated_articles: "查看评分最高文章"
   permission_watch_articles: "关注文章"
   permission_watch_categories: "关注分类"
+  permission_add_kb_article_watchers: "关注文章"
+  permission_add_kb_category_watchers: "关注分类"
   project_module_knowledgebase: 知识库
   show_article_without_tabs: "不使用 TAB 页方式显示文章所有内容？"
   show_attachments_first: "在文章内容前显示附件？"
   show_breadcrumbs_for_article_lists: "列表中的文章显示面包屑？"
   show_category_totals: "在分类树中显示数量？"
-  show_breadcrumbs_for_article_lists: "列表中的文章显示面包屑？"  
+  show_breadcrumbs_for_article_lists: "列表中的文章显示面包屑？"
   show_thumbnails_for_articles: "在文章中显示略缩图？"
-  show_tiled_article_lists: "以平铺形式显示文章列表？"  
+  show_tiled_article_lists: "以平铺形式显示文章列表？"
   summary_item_limit: "知识库主页文章限制"
   text_confirm_versions_delete: "文章所有改动将丢失，是否继续？"
   text_current_version: 当前版本
@@ -116,7 +118,7 @@ zh:
   title_tagged_articles: "含【%{tag}】标签的文章"
   title_tags: 标签
   title_top_rated_articles: "评分最高的文章"
-  title_votes: 
+  title_votes:
     one: "评分 1 次。"
     other: "评分 %{count} 次。"
     zero: "未评分。"

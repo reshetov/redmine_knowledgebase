@@ -500,7 +500,7 @@ module ActiveRecord #:nodoc:
               self.connection.add_column table_name, :version, :integer
             end
 
-            self.connection.create_table(versioned_table_name, create_table_options) do |t|
+            self.connection.create_table(versioned_table_name, **create_table_options) do |t|
               t.column versioned_foreign_key, :integer
               t.column :version, :integer
             end

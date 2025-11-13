@@ -87,6 +87,8 @@ ja:
   permission_view_top_rated_articles: トップレート記事の閲覧
   permission_watch_articles: 記事のウォッチ
   permission_watch_categories: カテゴリのウォッチ
+  permission_add_kb_article_watchers: 記事のウォッチ
+  permission_add_kb_category_watchers: カテゴリのウォッチ
   project_module_knowledgebase: ナレッジベース
   show_article_without_tabs: "TABなしの記事を表示しますか?"
   show_attachments_first: "記事の前に添付ファイルを表示しますか?"

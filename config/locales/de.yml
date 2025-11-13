@@ -1,5 +1,5 @@
---- 
-de: 
+---
+de:
   allow_anon_access: "Anonymen Zugriff erlauben?"
   allow_sort_category_tree: "Den Katgegoriebaum alphabetisch sortieren?"
   disable_article_summaries: "Artikelzusammenfassungen deaktivieren"
@@ -16,7 +16,7 @@ de:
   label_article_removed: "Artikel entfernt"
   label_article_updated: "Artikel aktualisiert"
   label_article_version: "Article version: %{version} - "
-  label_article_viewed: 
+  label_article_viewed:
     one: "Einmal gesehen"
     other: "%{count} mal gesehen"
   label_attachment_add: "Add files"
@@ -51,10 +51,10 @@ de:
   label_subcategories: Unterkategorien
   label_summary: Zusammenfassung
   label_summary_newest_articles: "Erstellt vor %{ago} in %{category}"
-  label_summary_popular_articles: 
+  label_summary_popular_articles:
     one: "Einmal angezeigt seit %{created}"
     other: "%{count} mal angezeigt seit %{created}"
-  label_summary_toprated_articles: 
+  label_summary_toprated_articles:
     one: "Rating: %{rating_avg}/%{rating_max} aus einer Stimme"
     other: "Rating: %{rating_avg}/%{rating_max} aus %{count} Stimmen"
   label_summary_updated_articles: "Vor %{ago} aktualisiert"
@@ -84,6 +84,8 @@ de:
   permission_view_top_rated_articles: "Bestbewerteste Artikel ansehen"
   permission_watch_articles: "Artikel beobachten"
   permission_watch_categories: "Kategorien beobachten"
+  permission_add_kb_article_watchers: "Artikel beobachten"
+  permission_add_kb_category_watchers: "Kategorien beobachten"
   project_module_knowledgebase: Wissensbasis
   show_article_without_tabs: "Show articles without tabs?"
   show_attachments_first: "Show attachments before article content?"
@@ -109,7 +111,7 @@ de:
   title_tagged_articles: "Artikel getaggt mit %{tag}"
   title_tags: Tags
   title_top_rated_articles: "Bestbewertete Artikel"
-  title_votes: 
+  title_votes:
     one: "Eine Stimme"
     other: "%{count} Stimmen"
     zero: "Keine Stimmen"
